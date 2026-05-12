@@ -1,6 +1,6 @@
 # RS485 Transreceiver flow_Sensor pulse counter
 
-pilse counter  RS485 communication for industrial sensing.
+Pulse counterRS 485 Arduino_Nano communication for industrial sensing.
 
 ## Features
 - Flow sensing
